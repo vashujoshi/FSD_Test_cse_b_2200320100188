@@ -3,3 +3,14 @@ h1{
     color: blue;
     height: 100px;
 }
+#PREV{
+    background-color: blue;
+}
+#Next{
+    background-color: green;
+}
+#Submit{
+    background-color: red;
+}
+
+
